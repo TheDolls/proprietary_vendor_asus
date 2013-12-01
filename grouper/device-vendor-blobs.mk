@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/grouper/proprietary/lib/hw/gps.tegra3.so:system/lib/hw/gps.tegra3.so \
     vendor/asus/grouper/proprietary/lib/hw/gralloc.tegra3.so:system/lib/hw/gralloc.tegra3.so \
     vendor/asus/grouper/proprietary/lib/hw/hwcomposer.tegra3.so:system/lib/hw/hwcomposer.tegra3.so \
-    vendor/asus/grouper/proprietary/lib/hw/keystore.grouper.so:system/lib/hw/keystore.grouper.so \
     vendor/asus/grouper/proprietary/lib/hw/sensors.grouper.so:system/lib/hw/sensors.grouper.so \
     vendor/asus/grouper/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
     vendor/asus/grouper/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
@@ -84,7 +83,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/grouper/proprietary/lib/libnvwsi.so:system/lib/libnvwsi.so \
     vendor/asus/grouper/proprietary/lib/libsensors.lightsensor.so:system/lib/libsensors.lightsensor.so \
     vendor/asus/grouper/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
-    vendor/asus/grouper/proprietary/lib/libtf_crypto_sst.so:system/lib/libtf_crypto_sst.so \
     vendor/asus/grouper/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/asus/grouper/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/asus/grouper/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
